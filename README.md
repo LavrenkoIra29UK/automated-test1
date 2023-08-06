@@ -1,5 +1,7 @@
 # automated-test1
-Filling out a form on a page using Seleniumfrom selenium import webdriver
+Filling out a form on a page using Selenium
+
+from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
 
